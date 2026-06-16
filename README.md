@@ -4,7 +4,7 @@ owasp-top10-salesforce
 A collection of examples of what OWASP Top 10 vulnerabilities look like on Salesforce, including examples you can use to see how these vulnerabilities work.
 
 Purpose
--------
+-------s
 The [OWASP Top 10](https://www.owasp.org/index.php/Top_10_2013-Top_10) lissts the top 10 most critical web application vulnerabilities to help educate those who buils such applications about the possible threats. This repo contains example code that demonstrates how these vulnerabilities can occur on Force.com
 
 Background
