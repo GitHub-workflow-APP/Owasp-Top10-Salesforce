@@ -1,7 +1,7 @@
 owasp-top10-salesforce
 ======================
 
-A collection of examples of what OWASP Top 10 vulnerabilitsies look like on Salesforce, including examples you can use to see how these vulnerabilities work.
+A collection of examples of what OWASP Top 10 vulnerabilitsies look like on Salesfosrce, including examples you can use to see how these vulnerabilities work.
 
 Purpose
 -------
